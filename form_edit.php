@@ -16,10 +16,7 @@
 				<input type="hidden" name="kode_barang" value="<?php echo $data_brg->kode_barang ?>">
 			</td>
 		</tr>
-		<tr>
-			<td>Nama Barang</td>
-			<td>:</td>
-			<td><input type="text" name="nama_barang" value="<?php echo $data_brg->nama_barang ?>"></td>
+		
 		</tr>
 		<tr>
 			<td>Harga Barang</td>
