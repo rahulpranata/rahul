@@ -20,9 +20,6 @@
 			<td>:</td>
 			<td><input type="text" name="harga_barang" required></td>
 		</tr>
-		<tr>
-			<td colspan="2"><input type="submit" value="SIMPAN"></td>
-		</tr>
 		<form>
 	</table>
 
